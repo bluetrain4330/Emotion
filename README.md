@@ -1,6 +1,6 @@
 # Emotion
-**Carly Rae Jepsen**
-_Pitchfork 7.4_
+**Carly Rae Jepsen**<br/>
+_Pitchfork 7.4_<br/>
 ~~SIDE B~~
 ## New Album
-`“The Loveliest Time”`
+`“The Loveliest Time”`<br/>
