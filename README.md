@@ -6,5 +6,5 @@ _Pitchfork 7.4_<br/>
 New Album<br/>
 Pitchfork:7.4
 - > EMOTION SIDE B
-  > The Lonliest Time
-  > Kiss
+- > The Lonliest Time
+- > Kiss
