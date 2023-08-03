@@ -2,6 +2,6 @@
 **Carly Rae Jepsen**<br/>
 _Pitchfork 7.4_<br/>
 ~~SIDE B~~
-## New Album
-`“The Loveliest Time”`<br/>
-#Pitchfork:7.4
+## `“The Loveliest Time”`
+New Album<br/>
+Pitchfork:7.4
