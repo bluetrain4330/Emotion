@@ -13,10 +13,11 @@ Pitchfork:7.4
 1. Emotion
 2. The Loveliest Time
 
-```int main(void){
-
-}```
-
-```py
-print $0
 ```
+int main(void){
+printf("HelloWorld");
+return 0;
+}
+```
+
+
