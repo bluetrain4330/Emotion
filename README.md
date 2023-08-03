@@ -13,5 +13,6 @@ Pitchfork:7.4
 1. Emotion
 2. The Loveliest Time
 
--[] Dance-pop
--[] Nu-Disco
+···int main(void){
+
+}···
