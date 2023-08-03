@@ -21,4 +21,4 @@ return 0;
 }
 ```
 [Pitchfork:The Loveliest Time](https://pitchfork.com/reviews/albums/carly-rae-jepsen-the-loveliest-time/)
-
+![[https://images.ctfassets.net/64g9w3mhgdgp/7cxUQonY4RQcvmUSDJCiOs/e79851933d02255294cb24f30856169b/030822_CARLY_10999.jpg?h=1500]]
