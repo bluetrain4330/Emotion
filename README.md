@@ -7,7 +7,7 @@ _Pitchfork 7.4_<br/>
 ---
 ## `“The Loveliest Time”`
 New Album<br/>
-Pitchfork:7.4
+Pitchfork:7.4<br/>
 [Pitchfork:The Loveliest Time](https://pitchfork.com/reviews/albums/carly-rae-jepsen-the-loveliest-time/)
 
 ---
