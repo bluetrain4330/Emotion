@@ -1,13 +1,13 @@
 # Emotion
 **Carly Rae Jepsen**<br/>
+***Run Away With Me***<br/>
 _Pitchfork 7.4_<br/>
 ~~SIDE B~~
 
 ---
 ## `“The Loveliest Time”`
 New Album<br/>
-Pitchfork:7.4<br/>
-
+Pitchfork:7.4
 [Pitchfork:The Loveliest Time](https://pitchfork.com/reviews/albums/carly-rae-jepsen-the-loveliest-time/)
 
 ---
@@ -16,11 +16,12 @@ Pitchfork:7.4<br/>
 - > Kiss
 - > Dedicated
 ---
+Pitchfork Reviews:
 1. Emotion
 2. The Loveliest Time
 3. Dedicated
 4. EMOTION SIDE B
-5. Dedicated SIDE B
+5. Dedicated Side B
 ---
 ```
 int main(void){
